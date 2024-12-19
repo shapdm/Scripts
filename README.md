@@ -6,4 +6,4 @@
 
 # Bash Scripts
 
-Скрипт [install_v2raya.sh] (https://github.com/shapdm/Scripts/blob/66ae337c0333c6c06965811a5707ba7459ea894c/install_v2raya.sh "install_v2raya.sh") для установки пакета v2rayA на OpenWRT
+Скрипт [install_v2raya.sh](https://github.com/shapdm/Scripts/blob/66ae337c0333c6c06965811a5707ba7459ea894c/install_v2raya.sh "install_v2raya.sh") для установки пакета v2rayA на OpenWRT
