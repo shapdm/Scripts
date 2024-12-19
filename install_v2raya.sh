@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
-
+ 
 # Add the public key certificate
 echo "Adding the public key certificate..."
 wget https://downloads.sourceforge.net/project/v2raya/openwrt/v2raya.pub -O /etc/opkg/keys/94cc2a834fb0aa03 || {
