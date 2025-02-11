@@ -1,4 +1,5 @@
 # Powershell Scripts
+Для запуска PS1 скрипта можно воспользоваться конструкцией irm script_url|iex
 
 Скрипт [Block traffic.ps1](https://github.com/shapdm/Scripts/blob/824b4fe2dcf19140ed4be2947484e7acdaae868b/Block%20traffic.ps1 "Block traffic.ps1") для блокировки исходящего трафика.
 
